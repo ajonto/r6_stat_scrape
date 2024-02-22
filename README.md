@@ -6,7 +6,8 @@ This web scraper works by taking in a user input of a list of players and cycles
 To use this program run the file located here: r6/main.py
 This will open a PySimpleGui that allows the user to enter in the names of the players and select the stats they wish to pull from the site. 
 The scrappy package was downloaded and used in a WSL virtual environment as using a Linux terminal simplified this process. 
- User Steps: 
+
+User Steps: 
 1.	Run main.py and enter in desired information into the displayed GUI, separating player names with a space. 
  ![image](https://github.com/ajonto/r6_stat_scrape/assets/78171517/f4bd9b19-af9b-413e-b413-5f43d76c928f)
  ![image](https://github.com/ajonto/r6_stat_scrape/assets/78171517/d65b83ad-7df2-4c76-9a8d-f2883841eb09)
