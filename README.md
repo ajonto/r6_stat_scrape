@@ -1,6 +1,6 @@
 # r6_stat_scrape
- # r6_stat_scrape
- Within these files is web scrapper used for the site R6 Stats - R6 Tracker, Leaderboards, & More! 
+
+Within these files is web scrapper used for the site R6 Stats - R6 Tracker, Leaderboards, & More! 
 The spider used for scraping can be found in r6/r6/spiders/r6Spider_spider.py. My friends and I play a popular game called Rainbow 6 Siege and are quite competitive when it comes to our statistics for the game. Our problem was there was no way for us to quickly compare each of our stats together on a common list as on this site you can only few one player at a time.
 This web scraper works by taking in a user input of a list of players and cycles through each of them scraping for their stats. After scraping for the user selected stats it will output them to a CSV allowing the user to view all of the players information in a single formatted doc.
 To use this program run the file located here: r6/main.py
